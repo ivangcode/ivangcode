@@ -24,11 +24,11 @@ I adore bringing solutions to **optimization and the creation of UI** and, I lov
 ### 🚀My projects
 _I love to make projects by my self to increase my technical skills and knowledge, here is some of my best projects._
 
-- [E-commerce platform building in React]()
-- [Todo-list an application to increase your productivity building in React]()
-- [Landing page of a streaming platform]()
-- [Lading page of crypto exchange]()
-- [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL]()
+- [E-commerce platform building in React](https://github.com/AreYouIvan/react-store)
+- [Todo-list an application to increase your productivity building in React](https://github.com/AreYouIvan/react-introduction)
+- [Landing page of a streaming platform](https://github.com/AreYouIvan/platziVideo)
+- [Lading page of crypto exchange](https://github.com/AreYouIvan/batata)
+- [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL](https://github.com/AreYouIvan/expressJS)
 
 <!---
 AreYouIvan/AreYouIvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
