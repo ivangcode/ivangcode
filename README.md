@@ -1,7 +1,7 @@
 # 👋Hi there, I’m Ivan 👨‍💻
 
 💚 I'm Frontend Developer, selftaught and passionate with create amazing **user interfaces**.
-I adore bringing solutions to **optimization and the creation of UI** and, I love to collaborate with teams.
+I adore bringing solutions to **optimization and the creation of UI** and, I love to collaborate as a teams.
 
 👀 _With backend knowledge as well_
 
