@@ -1,7 +1,7 @@
 # 👋Hi there, I’m Ivan 👨‍💻
 
 💚 I'm Frontend Developer, selftaught and passionate with create amazing **user interfaces**.
-I adore bringing solutions to **optimization and the creation of UI** and, I love to collaborate as a teams.
+I adore bringing solutions to **optimization and the creation of UI** and, I love to collaborate as a team.
 
 👀 _With backend knowledge as well_
 
@@ -30,7 +30,7 @@ _I love to make projects by my self to increase my technical skills and knowledg
 - [E-commerce platform building in React](https://github.com/AreYouIvan/react-store)
 - [Todo-list an application to increase your productivity building in React](https://github.com/AreYouIvan/react-introduction)
 - [Landing page of a streaming platform](https://github.com/AreYouIvan/platziVideo)
-- [Lading page of crypto exchange](https://github.com/AreYouIvan/batata)
+- [Landing page of a crypto exchange](https://github.com/AreYouIvan/batata)
 - [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL](https://github.com/AreYouIvan/expressJS)
 
 <!---
