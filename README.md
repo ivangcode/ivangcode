@@ -3,7 +3,7 @@
 💚 I'm Frontend Developer, selftaught and passionate with create amazing **user interfaces**.
 I adore bringing solutions to **optimization and the creation of UI** and, I love to collaborate as a team.
 
-👀 _With backend knowledge as well_
+👀 _With a little of backend knowledge as well_
 
 ### ⚙Technologies
 ---
