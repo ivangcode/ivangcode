@@ -1,11 +1,10 @@
 # 👋Hi there, I’m Ivan 👨‍💻
 
-💚 I'm Frontend Developer, selftaught and passionate with create amazing **user interfaces**.
-I adore bringing solutions to **optimization and the creation of UI** and, I love to collaborate as a team.
+Frontend/Javascript Developer, team player, communication, and problem-solving are some of the skills that make me perform well.
+I have developed several projects that have made me grow in experience. 
+I'm passionate about software development and all I can learn and discover in this industry. I really like to collaborate on projects and take the challenges to solve a problem that helps a cause and allows me to increase my skills!
 
-👀 _With a little of backend knowledge as well_
-
-### ⚙Technologies
+### ⚙ My stack technologies
 ---
 #### Frontend:   
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
