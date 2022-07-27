@@ -4,6 +4,19 @@ Frontend/Javascript Developer, team player, communication, and problem-solving a
 I have developed several projects that have made me grow in experience. 
 I'm passionate about software development and all I can learn and discover in this industry. I really like to collaborate on projects and take the challenges to solve a problem that helps a cause and allows me to increase my skills!
 
+
+### 🚀My projects 
+---
+_I love to make projects by my self to increase my technical skills and knowledge, here is some of my best projects._
+
+- [Ghibli Tracker: Rate and discover your favorites Ghibli's movies](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker)
+- [Ghibli Backoffice: Manage and make CRUD for all content from Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Backoffice)
+- [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL](https://github.com/AreYouIvan/expressJS)
+- [E-commerce platform building in Next.js](https://github.com/AreYouIvan/react-store)
+- [Todo-list an application to increase your productivity building in React](https://github.com/AreYouIvan/react-introduction)
+- [Landing page of a streaming platform](https://github.com/AreYouIvan/platziVideo)
+- [Landing page of a crypto exchange](https://github.com/AreYouIvan/batata)
+
 ### ⚙ My stack technologies
 ---
 #### Frontend:   
@@ -27,18 +40,6 @@ I'm passionate about software development and all I can learn and discover in th
 ### 📈My statistics
 ---
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=areyouivan)](https://github.com/areyouivan/)
-
-### 🚀My projects 
----
-_I love to make projects by my self to increase my technical skills and knowledge, here is some of my best projects._
-
-- [Ghibli Tracker: Rate and discover your favorites Ghibli's movies](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker)
-- [Ghibli Backoffice: Manage and make CRUD for all content from Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Backoffice)
-- [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL](https://github.com/AreYouIvan/expressJS)
-- [E-commerce platform building in Next.js](https://github.com/AreYouIvan/react-store)
-- [Todo-list an application to increase your productivity building in React](https://github.com/AreYouIvan/react-introduction)
-- [Landing page of a streaming platform](https://github.com/AreYouIvan/platziVideo)
-- [Landing page of a crypto exchange](https://github.com/AreYouIvan/batata)
 
 
 <!---
