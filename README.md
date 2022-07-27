@@ -33,11 +33,14 @@ I adore bringing solutions to **optimization and the creation of UI** and, I lov
 ---
 _I love to make projects by my self to increase my technical skills and knowledge, here is some of my best projects._
 
-- [E-commerce platform building in React](https://github.com/AreYouIvan/react-store)
+- [Ghibli Tracker: Rate and discover your favorites Ghibli's movies](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker)
+- [Ghibli Backoffice: Manage and make CRUD for all content from Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Backoffice)
+- [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL](https://github.com/AreYouIvan/expressJS)
+- [E-commerce platform building in Next.js](https://github.com/AreYouIvan/react-store)
 - [Todo-list an application to increase your productivity building in React](https://github.com/AreYouIvan/react-introduction)
 - [Landing page of a streaming platform](https://github.com/AreYouIvan/platziVideo)
 - [Landing page of a crypto exchange](https://github.com/AreYouIvan/batata)
-- [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL](https://github.com/AreYouIvan/expressJS)
+
 
 <!---
 AreYouIvan/AreYouIvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
