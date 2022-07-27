@@ -9,7 +9,7 @@ I really like to collaborate on projects and take the challenges to solve a prob
 
 ### 🚀My projects 
 ---
-_I love to make personal projects to increase my technical skills and keep learning about new technologies. Here are some of my best projects._
+_I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my best projects._
 
 - [Ghibli Tracker: Rate and discover your favorites Ghibli's movies](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker)
 - [Ghibli Backoffice: Manage and make CRUD for all content from Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Backoffice)
