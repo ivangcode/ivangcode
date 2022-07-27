@@ -1,8 +1,10 @@
 # 👋Hello! it's Ivan 👨‍💻
 
 Frontend/Javascript Developer, team player, communication, and problem-solving are some of the skills that make me perform well.
-I have developed several projects that have made me grow in experience. 
-I'm passionate about software development and all I can learn and discover in this industry. I really like to collaborate on projects and take the challenges to solve a problem that helps a cause and allows me to increase my skills!
+
+I have developed several projects that have made me grow in experience. I'm passionate about software development and all I can learn and discover in this industry.
+
+I really like to collaborate on projects and take the challenges to solve a problem that helps a cause and allows me to increase my skills!
 
 
 ### 🚀My projects 
