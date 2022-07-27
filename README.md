@@ -15,8 +15,6 @@ _I love to make projects to increase my technical skills and keep learning about
 - [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL](https://github.com/AreYouIvan/expressJS)
 - [E-commerce platform building in Next.js](https://github.com/AreYouIvan/react-store)
 - [Todo-list an application to increase your productivity building in React](https://github.com/AreYouIvan/react-introduction)
-- [Landing page of a streaming platform](https://github.com/AreYouIvan/platziVideo)
-- [Landing page of a crypto exchange](https://github.com/AreYouIvan/batata)
 
 ### ⚙ My stack technologies
 ---
