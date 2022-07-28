@@ -1,4 +1,4 @@
-# 👋Hello! it's Ivan 👨‍💻
+# 👋Hello! it's Iván 👨‍💻
 
 Frontend/Javascript Developer, team player, communication, and problem-solving are some of the skills that make me perform well.
 
