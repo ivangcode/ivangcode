@@ -1,4 +1,5 @@
-# ![github-header-image](https://user-images.githubusercontent.com/73669701/181574015-66113ceb-07c9-4291-98e5-3f63b80c818e.png)
+# ![banner](https://user-images.githubusercontent.com/73669701/181575700-28664e46-ced0-4258-970b-e4f5322dd100.png)
+
 
 
 Frontend/Javascript Developer, team player, communication, and problem-solving are some of the skills that make me perform well.
