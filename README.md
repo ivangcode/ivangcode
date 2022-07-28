@@ -5,6 +5,7 @@ Frontend/Javascript Developer, team player, communication, and problem-solving a
 I have developed several projects that have made me grow in experience. I'm passionate about software development and all I can learn and discover in this industry.
 I really like to collaborate on projects and take the challenges to solve a problem that helps a cause and allows me to increase my skills!
 
+🚀 I am currently part of the best community ever: 💚**Platzi Master**.
 
 ## 🚀My projects 
 
