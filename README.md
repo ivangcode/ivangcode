@@ -2,7 +2,7 @@
 
 
 
-Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React, Node.js, Express, and Nest. I am also proficient in using SQL, and Linux. My goal is to grow as a professional, reach a high seniority level and take a role in software architecture to develop great applications. Team player, communication, problem-solving, and detail-oriented are skills that allow me to do an excellent job.
+Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React, Node.js, Express, and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and take a role in software architecture to create great applications. Team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.
 
 🚀 I am part of the best community ever: 💚**Platzi Master**.
 
