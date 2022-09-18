@@ -1,8 +1,8 @@
 <!-- ![](https://komarev.com/ghpvc/?username=areyouivan&color=blueviolet) -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAreYouIvan&count_bg=%234A4B49&title_bg=%235E21A4&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- BANNER: "Hello it's Ivan" -->
 # ![banner](https://user-images.githubusercontent.com/73669701/181575700-28664e46-ced0-4258-970b-e4f5322dd100.png)
-
-
+<!-- DESCRIPTION -->
 Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React, Node.js, Express, and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and take a role in software architecture to create great applications. Team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.
 
 🚀 I am part of the best community ever: 💚**Platzi Master**.
