@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=areyouivan&color=blueviolet)
 # ![banner](https://user-images.githubusercontent.com/73669701/181575700-28664e46-ced0-4258-970b-e4f5322dd100.png)
 
 
