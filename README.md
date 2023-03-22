@@ -5,7 +5,7 @@
 # ![bannerv2](https://user-images.githubusercontent.com/73669701/227031047-e4826b82-bbb5-4111-a08d-b97881c71c3b.png)
 
 <!-- DESCRIPTION -->
-Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React, Node.js, Express, and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and take a role in software architecture to create great applications. Team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.
+Full-Stack developer with 3 years of experience programming with web technologies. With experience working in a technology company and open source projects, creating bugfixes and implement great features using clean code and unit tests. Excellent working with others and contributing to implement the best solutions for complex problems.
 
 🚀 I am part of the best community ever: 💚**Platzi Master**.
 
